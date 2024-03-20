@@ -1,2 +1,3 @@
 # community
-Spot for public discussions about the Stanford Journalism program.
+
+Our public square for discussions about the Stanford Journalism program.
